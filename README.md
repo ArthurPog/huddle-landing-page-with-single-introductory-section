@@ -1,4 +1,4 @@
-# My third project and solution to the order summary component challenge over at [Frontend Mentor](https://www.frontendmentor.io/challenges)
+# My seventh project and solution to the huddle-landing-page-with-single-introductory-section challenge over at [Frontend Mentor](https://www.frontendmentor.io/challenges)
 
 ## This was the assignment
 
@@ -6,6 +6,6 @@
 
 ## This is my solution
 
-[Click here to see the live page](https://arthurpog.github.io/order-summary-component/)
+[Click here to see the live page](https://arthurpog.github.io/huddle-landing-page-with-single-introductory-section/)
 
 ![](./design/my_solution.png)
