@@ -86,7 +86,7 @@ button:active {
 
 .icons {
   position: absolute;
-  bottom: -7rem;
+  bottom: -3rem;
   right: 0; 
   display: flex;
 }
@@ -136,7 +136,7 @@ button:active {
   .icons {
     position: relative;
     justify-content: center;
-
+    margin-bottom: 2rem;
   }
 }
 
