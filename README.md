@@ -8,4 +8,4 @@
 
 [Click here to see the live page](https://arthurpog.github.io/huddle-landing-page-with-single-introductory-section/)
 
-![](./design/my_solution.png)
+![](./design/my-solution.png)
